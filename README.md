@@ -1,8 +1,8 @@
 ## SQL-Portfolio
 
-This repo contains publicly available maize phenotypic data downloaded from [MaizeGDB] (https://download.maizegdb.org/Maize_Domestication_Traits/), which I used to construct a small MySQL database to use for running example SQL scripts.
+This repo contains publicly available maize phenotypic data downloaded from [MaizeGDB](https://download.maizegdb.org/Maize_Domestication_Traits/), which I used to construct a small MySQL database to use for running example SQL scripts.
 
-**NOTE:** I run this database locally using [MySQL Workbench] (https://www.mysql.com/products/workbench/). However, for convenience, I've also included an SQL script for creating the db without needing the raw data files.
+**NOTE:** I run this database locally using [MySQL Workbench](https://www.mysql.com/products/workbench/). However, for convenience, I've also included an SQL script for creating the db without needing the raw data files.
 
 ### data:
 Contains the csv files used to populate the MySQL db.

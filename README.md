@@ -8,8 +8,8 @@ This repo contains publicly available maize phenotypic data downloaded from [Mai
 Contains the csv files used to populate the MySQL db.
 
 ### scripts:
-1_create_maize_example_datadb.sql: Creates the db if it does not exist.
-2_filter_populations_join.sql: Filters the data for populations 5-10 and performs a full outer join of the data.
+1_create_maize_example_datadb.sql: Creates the db if it does not exist.<br>
+2_filter_populations_join.sql: Filters the data for populations 5-10 and performs a full outer join of the data.<br>
 
 ### results:
 Contains output files (saved as .csv files) from SQL query and aggregation scripts. The names of the files correspond to the script used.

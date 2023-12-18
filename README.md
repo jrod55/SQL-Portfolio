@@ -16,6 +16,8 @@ Contains the csv files used to populate the MySQL db.
 -Filter for the top and bottom 10% of values from each table and return the result in 'long' format with top and bottom categories labeled.<br>
 **4_categorize_top_bottom_by_pop.sql:**<br>
 -For each population in each table, filter for the top and bottom 10% of values and return the result in 'long' format with top and bottom categories labeled.<br>
+**5_summary_stats_by_pop.sql:**<br>
+-Compute summary stats (min/mean/max) of trait values for each population in each table.<br>
 
 ### results:
 Contains output files (saved as .csv files) from SQL query and aggregation scripts. The names of the files correspond to the script used.

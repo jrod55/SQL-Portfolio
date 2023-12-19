@@ -1,6 +1,6 @@
 ## SQL-Portfolio
 
-This repo contains examples of using SQL to query and aggregate data. The data used are from publicly available maize phenotypes (traits), and are downloaded from [MaizeGDB](https://download.maizegdb.org/Maize_Domestication_Traits/). I then used these data to construct a MySQL database for running the example SQL scripts.
+This repo contains examples of using SQL to query and aggregate data. The data used are from publicly available maize phenotypes (traits), and are downloaded from [MaizeGDB](https://download.maizegdb.org/Maize_Domestication_Traits/). I used these data to construct a MySQL database for running the example SQL scripts.
 
 **NOTE:** I run this database locally using [MySQL Workbench](https://www.mysql.com/products/workbench/). However, for convenience, I've also included an SQL script for creating the db without needing the raw data files.
 
